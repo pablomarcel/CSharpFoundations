@@ -1,0 +1,8 @@
+C:\Users\pablo\source\repos\csharpfoundations\gitTest\gitTest\bin\Debug\gitTest.exe.config
+C:\Users\pablo\source\repos\csharpfoundations\gitTest\gitTest\bin\Debug\gitTest.exe
+C:\Users\pablo\source\repos\csharpfoundations\gitTest\gitTest\bin\Debug\gitTest.pdb
+C:\Users\pablo\source\repos\csharpfoundations\gitTest\gitTest\obj\Debug\gitTest.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\csharpfoundations\gitTest\gitTest\obj\Debug\gitTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\source\repos\csharpfoundations\gitTest\gitTest\obj\Debug\gitTest.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\csharpfoundations\gitTest\gitTest\obj\Debug\gitTest.exe
+C:\Users\pablo\source\repos\csharpfoundations\gitTest\gitTest\obj\Debug\gitTest.pdb
